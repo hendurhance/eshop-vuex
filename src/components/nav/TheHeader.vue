@@ -18,8 +18,8 @@
       </ul>
     </nav>
     <div>
-      <button v-if="!isLoggedIn" @login="login">Login</button>
-      <button v-if="isLoggedIn" @logout="logout">Logout</button>
+      <button v-if="!isLoggedIn" @click="login">Login</button>
+      <button v-if="isLoggedIn" @click="logout">Logout</button>
     </div>
   </header>
 </template>
@@ -79,22 +79,22 @@ a {
 a:hover,
 a:active,
 a.router-link-active {
-  color: #45006d;
-  border-color: #45006d;
+  color: #0ab47b;
+  border-color: #0ab47b;
 }
 
 button {
   font: inherit;
   cursor: pointer;
   padding: 0.5rem 1.5rem;
-  border: 1px solid #45006d;
+  border: 1px solid#0ab47b;
   background-color: transparent;
-  color: #45006d;
+  color: #0ab47b;
   border-radius: 30px;
 }
 
 button:hover,
 button:active {
-  background-color: #f0d5ff;
+  background-color: #18ccb4;
 }
 </style>

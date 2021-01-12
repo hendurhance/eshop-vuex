@@ -1,7 +1,7 @@
 <template>
   <section>
     <h2>Shop Admin</h2>
-    <p>There isn't much to do at the moment - sorry ...</p>
+    <p>What do you think I have here? Suprise haha</p>
   </section>
 </template>
 

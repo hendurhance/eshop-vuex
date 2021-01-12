@@ -69,8 +69,8 @@ img {
 
 button {
   font: inherit;
-  border: 1px solid #8f0030;
-  background-color: #8f0030;
+  border: 1px solid #cc2626;
+  background-color:#cc2626;
   color: white;
   border-radius: 30px;
   cursor: pointer;
@@ -79,7 +79,7 @@ button {
 
 button:hover,
 button:active {
-  background-color: #53001c;
-  border-color: #53001c;
+  background-color: #9e0b0b;
+  border-color: #9e0b0b;
 }
 </style>

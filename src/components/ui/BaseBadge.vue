@@ -30,7 +30,7 @@ export default {
 }
 
 .badge--elegant {
-  background-color: #45006d;
+  background-color:#0ab47b;
   color: white;
 }
 </style>

@@ -68,16 +68,16 @@ li {
 button {
   font: inherit;
   cursor: pointer;
-  background-color: #45006d;
+  background-color: #4c8a5f;
   color: white;
-  border: 1px solid #45006d;
+  border: 1px solid #4c8a5f;
   padding: 0.5rem 1.5rem;
   border-radius: 30px;
 }
 
 button:hover,
 button:active {
-  background-color: #760ab4;
-  border-color: #760ab4;
+  background-color: #0ab47b;
+  border-color: #0ab47b;
 }
 </style>
